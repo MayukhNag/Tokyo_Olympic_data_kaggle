@@ -1,8 +1,8 @@
 # Databricks notebook source
 configs = {"fs.azure.account.auth.type": "OAuth",
 "fs.azure.account.oauth.provider.type": "org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider",
-"fs.azure.account.oauth2.client.id": "fb0b76ae-1621-4577-b35a-9a2dc9b41d06",
-"fs.azure.account.oauth2.client.secret": 'F9h8Q~xX670q~FUu_5HgrWNUiAXiWstCGdd2CcRk',
+"fs.azure.account.oauth2.client.id": "client_id",
+"fs.azure.account.oauth2.client.secret": 'secret_key
 "fs.azure.account.oauth2.client.endpoint": "https://login.microsoftonline.com/tanent_id/oauth2/token"}
 
 
